@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gnome-main-menu.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1179"
+     inkscape:window-height="824"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="6.9532169"
+     inkscape:cx="48.158781"
+     inkscape:cy="22.439194"
+     inkscape:window-x="283"
+     inkscape:window-y="167"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs4" />
+  <g
+     id="layer0">
+    <g
+       id="layer1"
+       transform="translate(0.87894, 0.87894)"
+       fill="none">
+      <rect
+         id="shape0"
+         stroke-miterlimit="2.00000000000"
+         width="41.12265"
+         height="41.12265"
+         style="fill:#333333;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
+         x="2.5148306"
+         y="2.5148306" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1"
+         sodipodi:nodetypes="cccccccccccccccc"
+         id="path5"
+         d="M 2.5440768,16.806416 C 2.9663771,7.6463132 1.0136116,8.5034446 7.8744542,13.009949 c 1.4094995,1.155077 2.9766148,2.105244 4.5572208,3.010396 -0.004,-1.492822 -0.272427,-2.958597 -0.470562,-4.431153 2.359674,2.679404 4.928741,5.16742 7.241127,7.894096 1.839559,0.02905 3.679104,0.05206 5.52542,0.08336 1.58512,2.72894 3.386391,5.322779 5.153906,7.936879 0.421111,0.717831 0.708804,1.196114 1.017361,2.020376 0.435379,0.969236 -1.681172,0.405438 -1.177223,1.026034 3.195006,3.989831 7.988659,6.313479 12.861114,7.529337 -1.875568,0.936661 -4.075384,1.240628 -5.543433,2.780726 -2.740182,3.02615 2.598342,-4.142938 -1.11454,1.812532 -1.943106,-1.756228 -3.631801,-3.778157 -5.674007,-5.426336 -2.758185,-2.247092 -5.833864,-4.088902 -9.07616,-5.54344 -1.702211,-0.790308 -3.618319,-1.634655 -4.50996,-3.38865 -0.664211,-1.715711 -0.810573,-3.575531 -0.974931,-5.388069" />
+      <g
+         transform="matrix(0.26487804,0,0,0.26487804,-231.43801,-80.273773)"
+         id="#ffcb17ff"
+         style="fill:#333333">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#333333"
+           sodipodi:nodetypes="csccc"
+           id="path14"
+           d="m 965.06,395.8 c 18.51069,19.28613 -0.54574,-0.7076 16.92779,17.62337 0.48602,0.50987 0.32872,0.16531 -0.33779,1.80663 -5.62,-2.24 -11.06,-4.9 -16.54,-7.4 -0.04,-4.02 -0.06,-8.03 -0.05,-12.03 z" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1"
+         id="path11"
+         d="m 6.8641277,5.2682168 c 5.4091763,2.828811 10.4396573,6.4582542 14.7984463,10.7352762 0.861695,0.902577 1.968689,1.622754 2.575649,2.742327 -0.539345,-0.08334 -1.232788,0.267311 -1.652628,-0.191837 C 20.989572,16.547556 19.143533,14.742402 17.170128,13.105498 11.713781,8.6177681 9.1635481,6.7416334 2.703989,3.9175408 3.1943735,3.4870114 0.46950673,1.7940394 6.8641277,5.2682168 Z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+  </g>
+</svg>
